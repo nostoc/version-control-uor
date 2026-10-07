@@ -1,3 +1,4 @@
 Hello, Git
-I'm new to git. 
-I like learning git, Its very useful for Version controling. 
+I'm new to git.
+I like learning git, Its very useful for Version controling.
+This is the cloned repository from GitHub.
